@@ -1,5 +1,5 @@
 {
-    "name": "northwoods/conditional-middleware",
+    "name": "drez/conditional-middleware",
     "description": "Middleware proxy for request condition checks",
     "keywords": [
         "http",
